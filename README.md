@@ -8,3 +8,5 @@ BA Software Engineering Course from the University of Applied Science Mittweida 
 ## Tools
 
 [Eclipse](https://www.eclipse.org)
+
+[JavaFX](https://openjfx.io/)
