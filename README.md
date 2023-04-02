@@ -16,6 +16,7 @@ The software engineering course covered various aspects of software development,
 - Effort Estimations
 - Implementation of Patterns
 - Software Testing
+- Git & Lean Management Tools
 
 ## Repository Description
 
