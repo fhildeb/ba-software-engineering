@@ -22,8 +22,10 @@ The software engineering course covered various aspects of software development,
 
 > Throughout the course, there were eleven functional units through which the entire software management process was run. Two of these were directly related to the development of a project.
 
-9.
-10.
+9. Vocabulary Management
+10. Singleton Controller
+    - Terminal
+    - GUI
 
 ## Tools
 
